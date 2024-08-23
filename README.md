@@ -1,4 +1,4 @@
-# rust-wasm
+# rust-wasm-1
 Sample WebAssenbly project using Rust
 
 ## setup environment
